@@ -4,8 +4,8 @@
 
 **Please specify your RSS feed if you have one.**
 
-_PS. Must not be on a 3rd party platform like Medium, dev.to or any other that you dont host yourself._
-_PPS. Companies not allowed - unless you're a one man band._
+_PS. Must not be on a 3rd party platform like Medium, dev.to or any other that you dont host yourself._  
+_PPS. Companies not allowed - unless you're a one person band._  
 
 Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/status/1055968230584541184
 
