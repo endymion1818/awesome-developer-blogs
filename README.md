@@ -70,7 +70,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [gomakethings.com](https://gomakethings.com/articles/)
 - [shortdiv.com](https://shortdiv.com/)
 - [flaviocopes.com](https://flaviocopes.com/)
-- [bitsofco.de](bitsofco.de/)
+- [bitsofco.de](https://bitsofco.de/)
 - [valhead.com](https://valhead.com/) [[RSS](https://valhead.com/feed/)]
 - [decadecity.net](https://decadecity.net/)
 - [timkadlec.com](https://timkadlec.com/)
