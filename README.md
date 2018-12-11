@@ -71,3 +71,9 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [shortdiv.com](https://shortdiv.com/)
 - [flaviocopes.com](https://flaviocopes.com/)
 - [bitsofco.de](bitsofco.de/)
+- [valhead.com](https://valhead.com/) [[RSS](https://valhead.com/feed/)]
+- [decadecity.net](https://decadecity.net/)
+- [timkadlec.com](https://timkadlec.com/)
+- [brucelawson.co.uk](https://www.brucelawson.co.uk/) [[RSS](https://www.brucelawson.co.uk/feed/)]
+- [lukew.com](https://www.lukew.com/ff/) [[RSS](http://feeds.feedburner.com/FunctioningForm)]
+- [blog.lmorchard.com](http://blog.lmorchard.com/) [[RSS](http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss)]
