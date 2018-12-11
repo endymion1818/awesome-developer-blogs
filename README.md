@@ -24,7 +24,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [voxpelli.com](https://voxpelli.com/) [[RSS](voxpelli.com/english.xml)]
 - [davidosomething.com](https://davidosomething.com/) [[RSS](davidosomething.com/rss.xml)]
 - [philna.sh](https://philna.sh/)[[RSS](philna.sh/feed.xml)]
-- https://steveedson.co.uk/feed.xml
+- [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](hiddedevries.nl/rss/summaries/)]
 - [thomasdeneuville.com](thomasdeneuville.com) [[RSS](thomasdeneuville.com/feed/)]
 - [awik.io](awik.io/) [[RSS](awik.io/feed)]
