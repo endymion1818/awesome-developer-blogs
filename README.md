@@ -8,7 +8,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 
 - [qubyte.codes](https://qubyte.codes/) [[RSS](https://qubyte.codes/atom.xml)]
 - [kleinfreund.de](https://kleinfreund.de/) [[RSS](https://kleinfreund.de/index.xml )]
-- [junaidqadir.com](junaidqadir.com) [[RSS](https://junaidqadir.com/feed/)]
+- [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed/)]
 - [yaabed.com](https://yaabed.com/)
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [fareez.info](http://fareez.info/)
@@ -19,41 +19,41 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [gideonpyzer.com](https://gideonpyzer.com/) [[RSS](https://gideonpyzer.com/blog/rss/)]
 - [georgestefanis.com](https://georgestefanis.com/)
 - [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
-- [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](mearso.co.uk/feed.xml)]
+- [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
 - [chrisruppel.com](https://chrisruppel.com/)
-- [voxpelli.com](https://voxpelli.com/) [[RSS](voxpelli.com/english.xml)]
-- [davidosomething.com](https://davidosomething.com/) [[RSS](davidosomething.com/rss.xml)]
-- [philna.sh](https://philna.sh/)[[RSS](philna.sh/feed.xml)]
+- [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
+- [davidosomething.com](https://davidosomething.com/) [[RSS](https://davidosomething.com/rss.xml)]
+- [philna.sh](https://philna.sh/)[[RSS](https://philna.sh/feed.xml)]
 - [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
-- [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](hiddedevries.nl/rss/summaries/)]
-- [thomasdeneuville.com](thomasdeneuville.com) [[RSS](thomasdeneuville.com/feed/)]
-- [awik.io](awik.io/) [[RSS](awik.io/feed)]
-- [til.hashrocket.com](til.hashrocket.com/) [[RSS](til.hashrocket.com/rss)]
-- [kizu.ru](https://www.kizu.ru/) [[RSS](feeds.feedburner.com/kizuruen)]
-- [dwr.io](dwr.io/) [[RSS](dwr.io/feed/)]
-- [kirupa.com](kirupa.com/) [[RSS](kirupa.com/modular/kirupa.xml)]
-- [joecodes.com](joecodes.com)
-- [uxcellence.com](uxcellence.com/subscribe) [[RSS](uxcellence.com/subscribe)]
-- [themaninblue.com](themaninblue.com/) [[RSS](themaninblue.com/feed/)]
-- [bram.us](bram.us)
-- [blog.frankmtaylor.com](blog.frankmtaylor.com/) [[RSS](blog.frankmtaylor.com/feed)]
-- [matthiasott.com](matthiasott.com) [[RSS](matthiasott.com/rss)]
-- [boffosocko.com](boffosocko.com)
-- [cdevroe.com](cdevroe.com/) [[RSS](cdevroe.com/feed)]
-- [mattnortham.com/blog](mattnortham.com/blog/) [[RSS](mattnortham.com/blog/feed/)]
-- [adactio.com](adactio.com)
-- [remysharp.com](remysharp.com)
-- [codewithhugo.com](codewithhugo.com/) [[RSS](codewithhugo.com/index.xml)]
-- [bjango.com](bjango.com/articles/)
-- [claytonsalem.com](claytonsalem.com/) [[RSS](claytonsalem.com/feed.xml)]
+- [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
+- [thomasdeneuville.com](https://thomasdeneuville.com) [[RSS](https://thomasdeneuville.com/feed/)]
+- [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
+- [til.hashrocket.com](https://til.hashrocket.com/) [[RSS](https://til.hashrocket.com/rss)]
+- [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
+- [dwr.io](https://dwr.io/) [[RSS](https://dwr.io/feed/)]
+- [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
+- [joecodes.com](https://joecodes.com)
+- [uxcellence.com](https://uxcellence.com/subscribe) [[RSS](https://uxcellence.com/subscribe)]
+- [themaninblue.com](https://themaninblue.com/) [[RSS](https://themaninblue.com/feed/)]
+- [bram.us](https://bram.us)
+- [blog.frankmtaylor.com](https://blog.frankmtaylor.com/) [[RSS](blog.frankmtaylor.com/feed)]
+- [matthiasott.com](https://matthiasott.com) [[RSS](https://matthiasott.com/rss)]
+- [boffosocko.com](https://boffosocko.com)
+- [cdevroe.com](https://cdevroe.com/) [[RSS](https://cdevroe.com/feed)]
+- [mattnortham.com/blog](https://mattnortham.com/blog/) [[RSS](https://mattnortham.com/blog/feed/)]
+- [adactio.com](https://adactio.com)
+- [remysharp.com](https://remysharp.com)
+- [codewithhugo.com](https://codewithhugo.com/) [[RSS](codewithhugo.com/index.xml)]
+- [bjango.com](https://bjango.com/articles/)
+- [claytonsalem.com](https://claytonsalem.com/) [[RSS](https://claytonsalem.com/feed.xml)]
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [rtl-css.net](https://rtl-css.net/)
 - [50linesofco.de](http://50linesofco.de/)
 - [chenhuijing.com](https://www.chenhuijing.com/) [[RSS](https://www.chenhuijing.com/feed.xml)]
-- [jordanm.co.uk](jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
-- [snook.ca](snook.ca/posts/) [[RSS](snook.ca/posts/index.rss)]
-- [meyerweb.com](meyerweb.com/eric/thoughts/)
-- [a11ywithlindsey.com](a11ywithlindsey.com)
+- [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
+- [snook.ca](https://snook.ca/posts/) [[RSS](https://snook.ca/posts/index.rss)]
+- [meyerweb.com](https://meyerweb.com/eric/thoughts/)
+- [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [notlaura.com](https://notlaura.com)
 - [overreacted.io](https://overreacted.io/)
 - [sophiebits.com](https://sophiebits.com/)
@@ -64,5 +64,10 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [bricolage.io](https://www.bricolage.io/)
 - [ar.al](https://ar.al/)
 - [laurakalbag.com](https://laurakalbag.com/)
-- [feather.ca](feather.ca)
+- [feather.ca](https://feather.ca)
 - [lengstorf.com/blog](https://lengstorf.com/blog)
+- [rachelandrew.co.uk](https://rachelandrew.co.uk/archives)
+- [gomakethings.com](https://gomakethings.com/articles/)
+- [shortdiv.com](https://shortdiv.com/)
+- [flaviocopes.com](https://flaviocopes.com/)
+- [bitsofco.de](bitsofco.de/)
