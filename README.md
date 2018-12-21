@@ -8,7 +8,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 
 - [qubyte.codes](https://qubyte.codes/) [[RSS](https://qubyte.codes/atom.xml)]
 - [kleinfreund.de](https://kleinfreund.de/) [[RSS](https://kleinfreund.de/index.xml )]
-- [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed/)]
+- [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
 - [yaabed.com](https://yaabed.com/)
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [fareez.info](http://fareez.info/)
@@ -16,7 +16,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [marcus.io](https://marcus.io/) [[RSS](https://marcus.io/feed)]
 - [keithjgrant.com](https://keithjgrant.com/) [[RSS](https://keithjgrant.com/posts/index.xml)]
 - [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/atom.xml)]
-- [gideonpyzer.com](https://gideonpyzer.com/) [[RSS](https://gideonpyzer.com/blog/rss/)]
+- [gideonpyzer.com](https://gideonpyzer.com/) [[RSS](https://gideonpyzer.com/blog/rss)]
 - [georgestefanis.com](https://georgestefanis.com/)
 - [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
 - [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
@@ -26,14 +26,14 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [philna.sh](https://philna.sh/)[[RSS](https://philna.sh/feed.xml)]
 - [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
-- [thomasdeneuville.com](https://thomasdeneuville.com) [[RSS](https://thomasdeneuville.com/feed/)]
+- [thomasdeneuville.com](https://thomasdeneuville.com) [[RSS](https://thomasdeneuville.com/feed)]
 - [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
 - [til.hashrocket.com](https://til.hashrocket.com/) [[RSS](https://til.hashrocket.com/rss)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
-- [dwr.io](https://dwr.io/) [[RSS](https://dwr.io/feed/)]
+- [dwr.io](https://dwr.io/) [[RSS](https://dwr.io/feed)]
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [joecodes.com](https://joecodes.com)
-- [uxcellence.com](https://uxcellence.com/subscribe) [[RSS](https://uxcellence.com/subscribe)]
+- [uxcellence.com](https://uxcellence.com) [[RSS](https://uxcellence.com/subscribe)]
 - [themaninblue.com](https://themaninblue.com/) [[RSS](https://themaninblue.com/feed/)]
 - [bram.us](https://bram.us)
 - [blog.frankmtaylor.com](https://blog.frankmtaylor.com/) [[RSS](blog.frankmtaylor.com/feed)]
@@ -79,3 +79,4 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [blog.lmorchard.com](http://blog.lmorchard.com/) [[RSS](http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss)]
 - [rachelnabors.com](http://rachelnabors.com/)
 - [paulmcbride.net](https://paulmcbride.net)
+- [charity.wtf](https://charity.wtf/)[[RSS](https://charity.wtf/feed)]
