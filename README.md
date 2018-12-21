@@ -78,3 +78,4 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [lukew.com](https://www.lukew.com/ff/) [[RSS](http://feeds.feedburner.com/FunctioningForm)]
 - [blog.lmorchard.com](http://blog.lmorchard.com/) [[RSS](http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss)]
 - [rachelnabors.com](http://rachelnabors.com/)
+- [paulmcbride.net](https://paulmcbride.net)
