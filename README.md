@@ -58,7 +58,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [overreacted.io](https://overreacted.io/)
 - [sophiebits.com](https://sophiebits.com/)
 - [ohhelloana.blog](https://www.ohhelloana.blog/)
-- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/)
+- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) [[RSS](https://deliciousreverie.co.uk/index.xml)]
 - [crgeary.com](https://www.crgeary.com/)
 - [webjigsaw.com](http://webjigsaw.com/)
 - [bricolage.io](https://www.bricolage.io/)
