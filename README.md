@@ -80,3 +80,5 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [rachelnabors.com](http://rachelnabors.com/)
 - [paulmcbride.net](https://paulmcbride.net)
 - [charity.wtf](https://charity.wtf/)[[RSS](https://charity.wtf/feed)]
+- [Lynn Fisher](https://lynnandtonic.com/)
+- [Matt Hagner](https://www.matthagner.com/)
