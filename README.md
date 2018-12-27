@@ -82,3 +82,4 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [charity.wtf](https://charity.wtf/)[[RSS](https://charity.wtf/feed)]
 - [Lynn Fisher](https://lynnandtonic.com/)
 - [Matt Hagner](https://www.matthagner.com/)
+- [Gift Egwuenu](https://www.giftegwuenu.com/) [[RSS](https://www.giftegwuenu.com/index.xml)]
