@@ -6,7 +6,7 @@
 
 Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/status/1055968230584541184
 
-- [50linesofco.de](http://50linesofco.de/)
+- [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [adactio.com](https://adactio.com)
