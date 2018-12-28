@@ -49,6 +49,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [jonhilton.net](https://jonhilton.net/)
 - [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
+- [juanfernandes](https://juanfernandes.uk/blog/)
 - [keithjgrant.com](https://keithjgrant.com/) [[RSS](https://keithjgrant.com/posts/index.xml)]
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
