@@ -7,6 +7,7 @@
 Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/status/1055968230584541184
 
 - [50linesofco.de](http://50linesofco.de/)
+- [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [adactio.com](https://adactio.com)
 - [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
@@ -40,9 +41,12 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [gomakethings.com](https://gomakethings.com/articles/)
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
 - [iamdeveloper.com](https://iamdeveloper.com) [[RSS](https://www.iamdeveloper.com/rss.xml)]
+- [iwakoscott.com](https://www.iwakoscott.com/)
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [joecodes.com](https://joecodes.com)
+- [jonathanbossenger.com](https://jonathanbossenger.com/)
+- [jonhilton.net](https://jonhilton.net/)
 - [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
 - [keithjgrant.com](https://keithjgrant.com/) [[RSS](https://keithjgrant.com/posts/index.xml)]
@@ -52,6 +56,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [laurakalbag.com](https://laurakalbag.com/)
 - [lengstorf.com/blog](https://lengstorf.com/blog)
 - [lukew.com](https://www.lukew.com/ff/) [[RSS](http://feeds.feedburner.com/FunctioningForm)]
+- [lvrbrtsn.com/blog](https://lvrbrtsn.com/blog/)
 - [Lynn Fisher](https://lynnandtonic.com/)
 - [marcus.io](https://marcus.io/) [[RSS](https://marcus.io/feed)]
 - [Matt Hagner](https://www.matthagner.com/)
