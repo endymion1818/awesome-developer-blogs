@@ -32,6 +32,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [decadecity.net](https://decadecity.net/)
 - [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) [[RSS](https://deliciousreverie.co.uk/index.xml)]
 - [dwr.io](https://dwr.io/) [[RSS](https://dwr.io/feed)]
+- [Emma Wedekind](https://emmawedekind.com/)
 - [fareez.info](http://fareez.info/)
 - [feather.ca](https://feather.ca)
 - [flaviocopes.com](https://flaviocopes.com/)
@@ -50,6 +51,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
 - [juanfernandes](https://juanfernandes.uk/blog/)
+- [Kahlil Lechelt](https://www.kahlillechelt.com/) [[RSS](https://www.kahlillechelt.com/index.xml)]
 - [keithjgrant.com](https://keithjgrant.com/) [[RSS](https://keithjgrant.com/posts/index.xml)]
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
@@ -72,8 +74,9 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [paulmcbride.net](https://paulmcbride.net)
 - [philna.sh](https://philna.sh/)[[RSS](https://philna.sh/feed.xml)]
 - [qubyte.codes](https://qubyte.codes/) [[RSS](https://qubyte.codes/atom.xml)]
-- [rachelandrew.co.uk](https://rachelandrew.co.uk/archives)
+- [rachelandrew.co.uk](https://rachelandrew.co.uk/archives) [[RSS](https://rachelandrew.co.uk/feed)]
 - [rachelnabors.com](http://rachelnabors.com/)
+- [Reddy Prasad](https://reddyprasad.co.in/)
 - [remysharp.com](https://remysharp.com)
 - [rtl-css.net](https://rtl-css.net/)
 - [scottohara.me](https://www.scottohara.me/) [[RSS](https://www.scottohara.me/feed.xml)]
