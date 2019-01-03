@@ -94,3 +94,4 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 - [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
 - [webjigsaw.com](http://webjigsaw.com/)
 - [yaabed.com](https://yaabed.com/)
+- [Zell Liew](https://zellwk.com/blog/) 
