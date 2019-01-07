@@ -6,6 +6,8 @@
 
 Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/status/1055968230584541184
 
+Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
+
 - [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
