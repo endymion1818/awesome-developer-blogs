@@ -11,8 +11,10 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
+- [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
 - [adactio.com](https://adactio.com)
 - [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
+- [alexpate.uk](https://alexpate.uk/)
 - [ar.al](https://ar.al/)
 - [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
 - [bitsofco.de](https://bitsofco.de/)
@@ -41,7 +43,9 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [georgestefanis.com](https://georgestefanis.com/)
 - [gideonpyzer.com](https://gideonpyzer.com/) [[RSS](https://gideonpyzer.com/blog/rss)]
 - [Gift Egwuenu](https://www.giftegwuenu.com/) [[RSS](https://www.giftegwuenu.com/index.xml)]
+- [gloriacho.com](https://www.gloriacho.com/)
 - [gomakethings.com](https://gomakethings.com/articles/)
+- [Henry's Zoo](http://henryzoo.com/)
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
 - [iamdeveloper.com](https://iamdeveloper.com) [[RSS](https://www.iamdeveloper.com/rss.xml)]
 - [iwakoscott.com](https://www.iwakoscott.com/)
@@ -49,6 +53,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [joecodes.com](https://joecodes.com)
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
+- [Jonathan Cutrell](https://jonathancutrell.com/)
 - [jonhilton.net](https://jonhilton.net/)
 - [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
@@ -58,8 +63,10 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
 - [kleinfreund.de](https://kleinfreund.de/) [[RSS](https://kleinfreund.de/index.xml )]
+- [kylegill.com](http://kylegill.com/)
 - [laurakalbag.com](https://laurakalbag.com/)
 - [lengstorf.com/blog](https://lengstorf.com/blog)
+- [Luca Crea](https://lcrea.github.io/)
 - [lukew.com](https://www.lukew.com/ff/) [[RSS](http://feeds.feedburner.com/FunctioningForm)]
 - [lvrbrtsn.com/blog](https://lvrbrtsn.com/blog/)
 - [Lynn Fisher](https://lynnandtonic.com/)
