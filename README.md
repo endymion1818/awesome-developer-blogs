@@ -76,7 +76,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [mattnortham.com/blog](https://mattnortham.com/blog/) [[RSS](https://mattnortham.com/blog/feed/)]
 - [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
 - [meyerweb.com](https://meyerweb.com/eric/thoughts/)
-- [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/atom.xml)]
+- [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/feeds/articles.xml)]
 - [notlaura.com](https://notlaura.com)
 - [ohhelloana.blog](https://www.ohhelloana.blog/)
 - [overreacted.io](https://overreacted.io/)
