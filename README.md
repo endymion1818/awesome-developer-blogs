@@ -9,6 +9,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 
 - [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
+- [Adam Whitehouse](https://awhitehouse104.github.io/)
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
@@ -22,6 +23,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [blog.frankmtaylor.com](https://blog.frankmtaylor.com/) [[RSS](blog.frankmtaylor.com/feed)]
 - [blog.lmorchard.com](http://blog.lmorchard.com/) [[RSS](http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss)]
 - [boffosocko.com](https://boffosocko.com)
+- [Brad Frost](http://bradfrost.com/)
 - [bram.us](https://bram.us)
 - [bricolage.io](https://www.bricolage.io/)
 - [brucelawson.co.uk](https://www.brucelawson.co.uk/) [[RSS](https://www.brucelawson.co.uk/feed/)]
@@ -31,6 +33,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [chrisruppel.com](https://chrisruppel.com/)
 - [claytonsalem.com](https://claytonsalem.com/) [[RSS](https://claytonsalem.com/feed.xml)]
 - [codewithhugo.com](https://codewithhugo.com/) [[RSS](codewithhugo.com/index.xml)]
+- [David Crawshaw](https://crawshaw.io/)
 - [crgeary.com](https://www.crgeary.com/)
 - [davidosomething.com](https://davidosomething.com/) [[RSS](https://davidosomething.com/rss.xml)]
 - [decadecity.net](https://decadecity.net/)
@@ -50,6 +53,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [iamdeveloper.com](https://iamdeveloper.com) [[RSS](https://www.iamdeveloper.com/rss.xml)]
 - [iwakoscott.com](https://www.iwakoscott.com/)
 - [jaimeolmo.com](http://www.jaimeolmo.com)
+- [Jake Baker](https://jakebaker.co.uk/) [[RSS](https://jakebaker.co.uk/index.xml)]
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [joecodes.com](https://joecodes.com)
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
@@ -58,8 +62,10 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
 - [juanfernandes](https://juanfernandes.uk/blog/)
+- [Justin Jackson](https://justinjackson.ca/)
 - [Kahlil Lechelt](https://www.kahlillechelt.com/) [[RSS](https://www.kahlillechelt.com/index.xml)]
 - [keithjgrant.com](https://keithjgrant.com/) [[RSS](https://keithjgrant.com/posts/index.xml)]
+- [Kelly Vaughn](https://kvlly.com/)
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
 - [kleinfreund.de](https://kleinfreund.de/) [[RSS](https://kleinfreund.de/index.xml )]
@@ -74,6 +80,8 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Matt Hagner](https://www.matthagner.com/)
 - [matthiasott.com](https://matthiasott.com) [[RSS](https://matthiasott.com/rss)]
 - [mattnortham.com/blog](https://mattnortham.com/blog/) [[RSS](https://mattnortham.com/blog/feed/)]
+- [Max Stoiber](https://mxstbr.com/)
+- [Mazepress](https://mazepress.com/) [[RSS](https://mazepress.com/feed/)]
 - [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
 - [meyerweb.com](https://meyerweb.com/eric/thoughts/)
 - [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/atom.xml)]
@@ -81,12 +89,14 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [ohhelloana.blog](https://www.ohhelloana.blog/)
 - [overreacted.io](https://overreacted.io/)
 - [paulmcbride.net](https://paulmcbride.net)
+- [Paul Robert Lloyd](https://paulrobertlloyd.com/)
 - [philna.sh](https://philna.sh/)[[RSS](https://philna.sh/feed.xml)]
 - [qubyte.codes](https://qubyte.codes/) [[RSS](https://qubyte.codes/atom.xml)]
 - [rachelandrew.co.uk](https://rachelandrew.co.uk/archives) [[RSS](https://rachelandrew.co.uk/feed)]
 - [rachelnabors.com](http://rachelnabors.com/)
 - [Reddy Prasad](https://reddyprasad.co.in/)
 - [remysharp.com](https://remysharp.com)
+- [Ross Wintle](https://rosswintle.uk/) [[RSS](https://rosswintle.uk/feed)]
 - [rtl-css.net](https://rtl-css.net/)
 - [scottohara.me](https://www.scottohara.me/) [[RSS](https://www.scottohara.me/feed.xml)]
 - [shortdiv.com](https://shortdiv.com/)
@@ -94,10 +104,13 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [snook.ca](https://snook.ca/posts/) [[RSS](https://snook.ca/posts/index.rss)]
 - [sophiebits.com](https://sophiebits.com/)
 - [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
+- [Sushi and Robots by Jina Anne](https://www.sushiandrobots.com/)
 - [themaninblue.com](https://themaninblue.com/) [[RSS](https://themaninblue.com/feed/)]
 - [thomasdeneuville.com](https://thomasdeneuville.com) [[RSS](https://thomasdeneuville.com/feed)]
 - [til.hashrocket.com](https://til.hashrocket.com/) [[RSS](https://til.hashrocket.com/rss)]
 - [timkadlec.com](https://timkadlec.com/)
+- [Tim Nash](https://timnash.co.uk/) [[RSS](https://timnash.co.uk/feed/)]
+- [Uncle Bob](http://blog.cleancoder.com/) [[RSS](http://blog.cleancoder.com/atom.xml)]
 - [uxcellence.com](https://uxcellence.com) [[RSS](https://uxcellence.com/subscribe)]
 - [valhead.com](https://valhead.com/) [[RSS](https://valhead.com/feed/)]
 - [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
