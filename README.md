@@ -84,6 +84,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Mazepress](https://mazepress.com/) [[RSS](https://mazepress.com/feed/)]
 - [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
 - [meyerweb.com](https://meyerweb.com/eric/thoughts/)
+- [mxb.at](https://mxb.at/) [[RSS](https://mxb.at/feed.xml)]
 - [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/atom.xml)]
 - [notlaura.com](https://notlaura.com)
 - [ohhelloana.blog](https://www.ohhelloana.blog/)
