@@ -1,0 +1,6 @@
+<svg width="50" height="50" viewBox="-10 -10 120 120">
+	<title>RSS</title>
+	<path d="M 0,0 a 100 100 0 0 1 100,100 h -20 a 80 80 0 0 0 -80,-80 Z" fill="black"></path>
+	<path d="M 0,40 a 60 60 0 0 1 60 60 h -20 a 40 40 0 0 0 -40 -40 Z" fill="black"></path>
+	<circle cx="10" cy="90" r="10" fill="black"></circle>
+</svg>
