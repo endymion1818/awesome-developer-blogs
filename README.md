@@ -127,6 +127,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [til.hashrocket.com](https://til.hashrocket.com/) [[RSS](https://til.hashrocket.com/rss)]
 - [timkadlec.com](https://timkadlec.com/)
 - [Tim Nash](https://timnash.co.uk/) [[RSS](https://timnash.co.uk/feed/)]
+- [Peter Thaleikis](https://peterthaleikis.com/) [[RSS](https://peterthaleikis.com/feed.xml)]
 - [Uncle Bob](http://blog.cleancoder.com/) [[RSS](http://blog.cleancoder.com/atom.xml)]
 - [uxcellence.com](https://uxcellence.com) [[RSS](https://uxcellence.com/subscribe)]
 - [valhead.com](https://valhead.com/) [[RSS](https://valhead.com/feed/)]
@@ -134,4 +135,4 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
 - [webjigsaw.com](http://webjigsaw.com/)
 - [yaabed.com](https://yaabed.com/)
-- [Zell Liew](https://zellwk.com/blog/) 
+- [Zell Liew](https://zellwk.com/blog/)
