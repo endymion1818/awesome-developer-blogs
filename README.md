@@ -16,6 +16,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [adactio.com](https://adactio.com)
 - [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
 - [alexpate.uk](https://alexpate.uk/)
+- [Andreas Rein](https://andreasrein.net)
 - [Anne van Kesteren](https://annevankesteren.nl/)
 - [ar.al](https://ar.al/)
 - [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
