@@ -116,6 +116,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [rtl-css.net](https://rtl-css.net/)
 - [scottohara.me](https://www.scottohara.me/) [[RSS](https://www.scottohara.me/feed.xml)]
 - [shortdiv.com](https://shortdiv.com/)
+- [simonprickett.dev](https://simonprickett.dev/)
 - [sirarsalih.com](https://sirarsalih.com/) [[RSS](https://sirarsalih.com/atom.xml)]
 - [snook.ca](https://snook.ca/posts/) [[RSS](https://snook.ca/posts/index.rss)]
 - [sophiebits.com](https://sophiebits.com/)
