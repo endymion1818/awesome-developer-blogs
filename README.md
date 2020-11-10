@@ -139,4 +139,5 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
 - [webjigsaw.com](http://webjigsaw.com/)
 - [yaabed.com](https://yaabed.com/)
+- [Yuvraj's CS Blog](http://blog.yuvv.xyz/) [RSS](https://blog.yuvv.xyz/rss.xml)
 - [Zell Liew](https://zellwk.com/blog/)
