@@ -9,6 +9,7 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 
 - [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
+- [Dan Abramov](https://khairold.com/)[[RSS](https://khairold.com/rss.xml)]
 - [Adam Whitehouse](https://awhitehouse104.github.io/)
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
@@ -18,12 +19,12 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [alexpate.uk](https://alexpate.uk/)
 - [Andreas Rein](https://andreasrein.net)
 - [Anne van Kesteren](https://annevankesteren.nl/)
-- [ar.al](https://ar.al/)
+- [ar.al](https://ar.al/)[[RSS](https://ar.al/index.xml)]
 - [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
 - [Bit Stampede](https://www.bitstampede.com/)
 - [bitsofco.de](https://bitsofco.de/)
 - [bjango.com](https://bjango.com/articles/)
-- [blog.frankmtaylor.com](https://blog.frankmtaylor.com/) [[RSS](blog.frankmtaylor.com/feed)]
+- [blog.frankmtaylor.com](https://blog.frankmtaylor.com/) [[RSS](https://blog.frankmtaylor.com/feed)]
 - [blog.lmorchard.com](http://blog.lmorchard.com/) [[RSS](http://blog.lmorchard.com.s3-website-us-east-1.amazonaws.com/index.rss)]
 - [boffosocko.com](https://boffosocko.com)
 - [Brad Frost](http://bradfrost.com/)
@@ -36,7 +37,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [chrisruppel.com](https://chrisruppel.com/)
 - [claytonsalem.com](https://claytonsalem.com/) [[RSS](https://claytonsalem.com/feed.xml)]
 - [Christian Heilmann](https://christianheilmann.com/)
-- [codewithhugo.com](https://codewithhugo.com/) [[RSS](codewithhugo.com/index.xml)]
+- [codewithhugo.com](https://codewithhugo.com/) [[RSS](https://codewithhugo.com/index.xml)]
 - [David Crawshaw](https://crawshaw.io/)
 - [crgeary.com](https://www.crgeary.com/)
 - [davidosomething.com](https://davidosomething.com/) [[RSS](https://davidosomething.com/rss.xml)]
@@ -56,7 +57,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Henry's Zoo](http://henryzoo.com/)
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
 - [iamdeveloper.com](https://iamdeveloper.com) [[RSS](https://www.iamdeveloper.com/rss.xml)]
-- [](https://www.impressivewebs.com/) [[RSS](http://feeds2.feedburner.com/ImpressiveWebs)]
+- [Louis Lazaris - Impressive Webs](https://www.impressivewebs.com/) [[RSS](http://feeds2.feedburner.com/ImpressiveWebs)]
 - [iwakoscott.com](https://www.iwakoscott.com/)
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [Jake Baker](https://jakebaker.co.uk/) [[RSS](https://jakebaker.co.uk/index.xml)]
@@ -66,7 +67,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
 - [Jonathan Cutrell](https://jonathancutrell.com/)
 - [jonhilton.net](https://jonhilton.net/)
-- [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](jordanm.co.uk/feed)]
+- [jordanm.co.uk](https://jordanm.co.uk/) [[RSS](https://jordanm.co.uk/feed)]
 - [junaidqadir.com](https://junaidqadir.com) [[RSS](https://junaidqadir.com/feed)]
 - [juanfernandes](https://juanfernandes.uk/blog/)
 - [Justin Jackson](https://justinjackson.ca/)
@@ -97,6 +98,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [meyerweb.com](https://meyerweb.com/eric/thoughts/)
 - [Michael Okoh](https://okoh.co.uk/)
 - [mxb.at](https://mxb.at/) [[RSS](https://mxb.at/feed.xml)]
+- [Max Stoiber](https://mxstbr.com)[[RSS](https://mxstbr.com/rss)]
 - [The Ephemera of Nicholas Gallagher](http://nicolasgallagher.com/)
 - [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/feeds/articles.xml)]
 - [Nick Fitzgerald](http://fitzgeraldnick.com/)
@@ -109,7 +111,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [qubyte.codes](https://qubyte.codes/) [[RSS](https://qubyte.codes/atom.xml)]
 - [Quirksmode](https://www.quirksmode.org)
 - [rachelandrew.co.uk](https://rachelandrew.co.uk/archives) [[RSS](https://rachelandrew.co.uk/feed)]
-- [rachelnabors.com](http://rachelnabors.com/)
+- [rachelnabors.com](http://rachelnabors.com/)[[RSS](http://feeds.feedburner.com/RachelNabors)]
 - [Reddy Prasad](https://reddyprasad.co.in/)
 - [remysharp.com](https://remysharp.com)
 - [Rebecca Murphy](http://rmurphey.com/)
