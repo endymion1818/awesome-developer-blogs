@@ -114,6 +114,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Ross Wintle](https://rosswintle.uk/) [[RSS](https://rosswintle.uk/feed)]
 - [rtl-css.net](https://rtl-css.net/)
 - [scottohara.me](https://www.scottohara.me/) [[RSS](https://www.scottohara.me/feed.xml)]
+- [sergiomartino.com](https://blog.sergiomartino.com) [[RSS](https://blog.sergiomartino.com/rss)]
 - [shortdiv.com](https://shortdiv.com/)
 - [simonprickett.dev](https://simonprickett.dev/)
 - [sirarsalih.com](https://sirarsalih.com/) [[RSS](https://sirarsalih.com/atom.xml)]
