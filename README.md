@@ -123,7 +123,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
 - [Simurai](http://simurai.com/)
 - [Sushi and Robots by Jina Anne](https://www.sushiandrobots.com/)
-- [Suze Shardlow](https://suze.dev/)
+- [Suze Shardlow](https://suze.dev/) [RSS](https://suze.dev/feed.xml)
 - [Tab Atkins](https://www.xanthir.com/blog/) [[RSS](https://www.xanthir.com/blog/atom/)]
 - [themaninblue.com](https://themaninblue.com/) [[RSS](https://themaninblue.com/feed/)]
 - [thomasdeneuville.com](https://thomasdeneuville.com) [[RSS](https://thomasdeneuville.com/feed)]
