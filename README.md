@@ -15,7 +15,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
 - [adactio.com](https://adactio.com)
-- [alexcarpenter.me](https://alexcarpenter.me/) [[RSS](https://alexcarpenter.me/feed.xml)]
+- [alexcarpenter.me](https://alexcarpenter.me/) 
 - [alexpate.uk](https://alexpate.uk/)
 - [Andreas Rein](https://andreasrein.net)
 - [Anne van Kesteren](https://annevankesteren.nl/)
@@ -41,8 +41,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [davidosomething.com](https://davidosomething.com/) [[RSS](https://davidosomething.com/rss.xml)]
 - [daily-dev-tips.com](https://daily-dev-tips.com)
 - [decadecity.net](https://decadecity.net/)
-- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) [[RSS](https://deliciousreverie.co.uk/index.xml)]
-- [dwr.io](https://dwr.io/) [[RSS](https://dwr.io/feed)]
+- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) 
 - [Emma Bostian](https://compiled.blog/)
 - [fareez.info](http://fareez.info/)
 - [feather.ca](https://feather.ca)
@@ -53,7 +52,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [gomakethings.com](https://gomakethings.com/articles/)
 - [Henry's Zoo](http://henryzoo.com/)
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
-- [iamdeveloper.com](https://iamdeveloper.com) [[RSS](https://www.iamdeveloper.com/rss.xml)]
+- [iamdeveloper.com](https://iamdeveloper.com) 
 - [Louis Lazaris - Impressive Webs](https://www.impressivewebs.com/) [[RSS](http://feeds2.feedburner.com/ImpressiveWebs)]
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [Jake Baker](https://jakebaker.co.uk/) [[RSS](https://jakebaker.co.uk/index.xml)]
@@ -72,7 +71,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Kelly Vaughn](https://kvlly.com/)
 - [kirupa.com](https://kirupa.com/) [[RSS](https://kirupa.com/modular/kirupa.xml)]
 - [kizu.ru](https://www.kizu.ru/) [[RSS](https://feeds.feedburner.com/kizuruen)]
-- [kleinfreund.de](https://kleinfreund.de/) [[RSS](https://kleinfreund.de/index.xml )]
+- [kleinfreund.de](https://kleinfreund.de/)
 - [kylegill.com](http://kylegill.com/)
 - [laurakalbag.com](https://laurakalbag.com/)
 - [lengstorf.com/blog](https://lengstorf.com/blog)
@@ -80,13 +79,13 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [lukew.com](https://www.lukew.com/ff/) [[RSS](http://feeds.feedburner.com/FunctioningForm)]
 - [lvrbrtsn.com/blog](https://lvrbrtsn.com/blog/)
 - [Lynn Fisher](https://lynnandtonic.com/)
+- [Logit.io](https://logit.io/blog/) [[RSS](https://logit.io/blog/rss.xml)]
 - [Marco's Accessibility Blog](https://www.marcozehe.de/)
 - [marcus.io](https://marcus.io/) [[RSS](https://marcus.io/feed)]
 - [Marius Schulz](https://mariusschulz.com/) [[RSS](http://feeds.feedburner.com/mariusschulz)]
 - [Matt Hagner](https://www.matthagner.com/)
 - [Mathias Bynens](https://mathiasbynens.be/notes)
 - [matthiasott.com](https://matthiasott.com) [[RSS](https://matthiasott.com/rss)]
-- [mattnortham.com/blog](https://mattnortham.com/blog/) [[RSS](https://mattnortham.com/blog/feed/)]
 - [Max Stoiber](https://mxstbr.com/)
 - [Mazepress](https://mazepress.com/) [[RSS](https://mazepress.com/feed/)]
 - [@mdo](http://markdotto.com/)
@@ -120,7 +119,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [sirarsalih.com](https://sirarsalih.com/) [[RSS](https://sirarsalih.com/atom.xml)]
 - [snook.ca](https://snook.ca/posts/) [[RSS](https://snook.ca/posts/index.rss)]
 - [sophiebits.com](https://sophiebits.com/)
-- [steveedson.co.uk](https://steveedson.co.uk/) [[RSS](https://steveedson.co.uk/feed.xml)]
+- [steveedson.co.uk](https://steveedson.co.uk/)
 - [Simurai](http://simurai.com/)
 - [Sushi and Robots by Jina Anne](https://www.sushiandrobots.com/)
 - [Suze Shardlow](https://suze.dev/) [[RSS](https://suze.dev/feed.xml)]
