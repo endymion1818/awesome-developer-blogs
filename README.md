@@ -93,6 +93,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [mearso.co.uk](http://www.mearso.co.uk/) [[RSS](https://mearso.co.uk/feed.xml)]
 - [meyerweb.com](https://meyerweb.com/eric/thoughts/)
 - [Michael Okoh](https://okoh.co.uk/)
+- [Muhammad Ahmad](https://mahmad.me/blog)
 - [mxb.at](https://mxb.at/) [[RSS](https://mxb.at/feed.xml)]
 - [Max Stoiber](https://mxstbr.com)[[RSS](https://mxstbr.com/rss)]
 - [The Ephemera of Nicholas Gallagher](http://nicolasgallagher.com/)
