@@ -59,7 +59,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Jason Santa Maria](http://jasonsantamaria.com/) [[RSS](http://feeds.feedburner.com/jsm-rss)]
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [joecodes.com](https://joecodes.com)
-- [Joel on Software](https://www.joelonsoftware.com/) - Personal blog of [Joel Spolsky](https://en.wikipedia.org/wiki/Joel_Spolsky) which contains over a thousand articles. He was a [Program Manager](https://en.wikipedia.org/wiki/Program_management) during the early days of [Microsoft Excel](https://en.wikipedia.org/wiki/Microsoft_Excel).  Joel is also the creator of [Trello](https://trello.com/) and co-founder of [Stack Overflow](https://stackoverflow.com/).
+- [Joel on Software](https://www.joelonsoftware.com/)
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
 - [Jonathan Cutrell](https://jonathancutrell.com/)
 - [jonhilton.net](https://jonhilton.net/)
