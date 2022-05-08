@@ -59,6 +59,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [Jason Santa Maria](http://jasonsantamaria.com/) [[RSS](http://feeds.feedburner.com/jsm-rss)]
 - [jdsteinbach.com](https://jdsteinbach.com/)
 - [joecodes.com](https://joecodes.com)
+- [Joel on Software](https://www.joelonsoftware.com/)
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
 - [Jonathan Cutrell](https://jonathancutrell.com/)
 - [jonhilton.net](https://jonhilton.net/)
