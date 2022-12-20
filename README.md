@@ -41,7 +41,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [davidosomething.com](https://davidosomething.com/) [[RSS](https://davidosomething.com/rss.xml)]
 - [daily-dev-tips.com](https://daily-dev-tips.com)
 - [decadecity.net](https://decadecity.net/)
-- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) 
+- [deliciousreverie.co.uk](https://deliciousreverie.co.uk/) [[RSS](https://deliciousreverie.co.uk/rss.xml)]
 - [Emma Bostian](https://compiled.blog/)
 - [fareez.info](http://fareez.info/)
 - [feather.ca](https://feather.ca)
