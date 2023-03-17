@@ -18,6 +18,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [alexcarpenter.me](https://alexcarpenter.me/) 
 - [alexpate.uk](https://alexpate.uk/)
 - [Andreas Rein](https://andreasrein.net)
+- [Andrew Tarry](https://andrewtarry.com/) [[RSS](https://andrewtarry.com/feed.xml)]
 - [Anne van Kesteren](https://annevankesteren.nl/)
 - [ar.al](https://ar.al/)[[RSS](https://ar.al/index.xml)]
 - [awik.io](https://awik.io/) [[RSS](https://awik.io/feed)]
