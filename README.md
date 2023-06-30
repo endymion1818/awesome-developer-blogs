@@ -87,6 +87,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [marcus.io](https://marcus.io/) [[RSS](https://marcus.io/feed)]
 - [Marius Schulz](https://mariusschulz.com/) [[RSS](http://feeds.feedburner.com/mariusschulz)]
 - [Marko Denic](https://markodenic.com/) [[RSS](https://markodenic.com/feed/)]
+- [Matt Brictson](https://mattbrictson.com/) [[RSS](https://mattbrictson.com/blog.atom)]
 - [Matt Hagner](https://www.matthagner.com/)
 - [Mathias Bynens](https://mathiasbynens.be/notes)
 - [matthiasott.com](https://matthiasott.com) [[RSS](https://matthiasott.com/rss)]
