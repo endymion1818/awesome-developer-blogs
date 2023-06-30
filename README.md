@@ -14,6 +14,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [alanhogan.com/blog](https://alanhogan.com/blog)
 - [a11ywithlindsey.com](https://a11ywithlindsey.com)
 - [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
+- [All about coding - mainly about programming in Ruby](https://allaboutcoding.ghinda.com) [[RSS](https://allinthehead.com/retro/rss)]
 - [adactio.com](https://adactio.com)
 - [alexcarpenter.me](https://alexcarpenter.me/) 
 - [alexpate.uk](https://alexpate.uk/)
