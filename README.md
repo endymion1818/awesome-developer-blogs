@@ -16,7 +16,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
 - [All about coding - mainly about programming in Ruby](https://allaboutcoding.ghinda.com) [[RSS](https://allinthehead.com/retro/rss)]
 - [adactio.com](https://adactio.com)
-- [alexcarpenter.me](https://alexcarpenter.me/) 
+- [alexcarpenter.me](https://alexcarpenter.me/)
 - [alexpate.uk](https://alexpate.uk/)
 - [Andreas Rein](https://andreasrein.net)
 - [Andrew Tarry](https://andrewtarry.com/) [[RSS](https://andrewtarry.com/feed.xml)]
@@ -54,7 +54,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [gomakethings.com](https://gomakethings.com/articles/)
 - [Henry's Zoo](http://henryzoo.com/)
 - [hiddedevries.nl](https://hiddedevries.nl/) [[RSS](https://hiddedevries.nl/rss/summaries/)]
-- [iamdeveloper.com](https://iamdeveloper.com) 
+- [iamdeveloper.com](https://iamdeveloper.com)
 - [Louis Lazaris - Impressive Webs](https://www.impressivewebs.com/) [[RSS](http://feeds2.feedburner.com/ImpressiveWebs)]
 - [jaimeolmo.com](http://www.jaimeolmo.com)
 - [Jake Baker](https://jakebaker.co.uk/) [[RSS](https://jakebaker.co.uk/index.xml)]
@@ -135,6 +135,7 @@ Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 - [til.hashrocket.com](https://til.hashrocket.com/) [[RSS](https://til.hashrocket.com/rss)]
 - [timkadlec.com](https://timkadlec.com/)
 - [Tim Nash](https://timnash.co.uk/) [[RSS](https://timnash.co.uk/feed/)]
+- [TK](https://iamtk.co) [[RSS](https://iamtk.co/rss.xml)]
 - [Peter Thaleikis](https://peterthaleikis.com/) [[RSS](https://peterthaleikis.com/feed.xml)]
 - [Uncle Bob](http://blog.cleancoder.com/) [[RSS](http://blog.cleancoder.com/atom.xml)]
 - [uxcellence.com](https://uxcellence.com) [[RSS](https://uxcellence.com/subscribe)]
