@@ -8,6 +8,30 @@ Motivation behind this is from @ohhelloana: https://twitter.com/ohhelloana/statu
 
 Another take on this idea from Stu Robson: https://github.com/sturobson/myRSS
 
+## Rewilding the Internet
+
+It's 2024, and the idea of having your own patch of the web is taking off again.
+
+I think these are worth your time: 
+
+- ["We can have a different web"](https://www.citationneeded.news/we-can-have-a-different-web) 
+- ["The Internet is about to get weird again"](https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/)
+
+Here are a few directories you might want to check out:
+
+- [Ooh Directory](https://ooh.directory)
+- [blogroll.org](https://blogroll.org)
+- [Indieseek](https://indieseek.xyz)
+- [href.cool](https://href.cool)
+- [i.webthings](https://directory.joejenett.com)
+
+If you're looking for individual contributor blogs, you might also like to use [a better search engine](https://www.webcrawler.com/).
+
+Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
+
+
+## The list
+
 - [50linesofco.de](http://50linesofco.de/) [[RSS](http://50linesofco.de/rss.xml)]
 - [Dan Abramov](https://khairold.com/)[[RSS](https://khairold.com/rss.xml)]
 - [Adam Whitehouse](https://awhitehouse104.github.io/)
