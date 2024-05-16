@@ -16,6 +16,7 @@ I think these are worth your time:
 
 - ["We can have a different web"](https://www.citationneeded.news/we-can-have-a-different-web) 
 - ["The Internet is about to get weird again"](https://www.rollingstone.com/culture/culture-commentary/internet-future-about-to-get-weird-1234938403/)
+- ["The Humane Web Manifesto"](https://humanewebmanifesto.com/)
 
 Here are a few directories you might want to check out:
 
