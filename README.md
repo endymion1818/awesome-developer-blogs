@@ -25,6 +25,7 @@ Here are a few directories you might want to check out:
 - [Indieseek](https://indieseek.xyz)
 - [href.cool](https://href.cool)
 - [i.webthings](https://directory.joejenett.com)
+- [Weblogs.ai](https://weblogs.ai)
 
 If you're looking for individual contributor blogs, you might also like to use [a better search engine](https://www.webcrawler.com/).
 
