@@ -85,6 +85,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [Jake Baker](https://jakebaker.co.uk/) [[RSS](https://jakebaker.co.uk/index.xml)]
 - [Jason Santa Maria](http://jasonsantamaria.com/) [[RSS](http://feeds.feedburner.com/jsm-rss)]
 - [jdsteinbach.com](https://jdsteinbach.com/)
+- [Jens Oliver Meiert](https://meiert.com/) [[RSS](https://meiert.com/feed/)]
 - [joecodes.com](https://joecodes.com)
 - [Joel on Software](https://www.joelonsoftware.com/)
 - [jonathanbossenger.com](https://jonathanbossenger.com/)
