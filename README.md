@@ -114,6 +114,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [Marius Schulz](https://mariusschulz.com/) [[RSS](http://feeds.feedburner.com/mariusschulz)]
 - [Marko Denic](https://markodenic.com/) [[RSS](https://markodenic.com/feed/)]
 - [Matt Brictson](https://mattbrictson.com/) [[RSS](https://mattbrictson.com/blog.atom)]
+- [Matt Coles](https://coles.codes/) [[RSS](https://coles.codes/index.xml)]
 - [Matt Hagner](https://www.matthagner.com/)
 - [Matt Ouille](https://ooo-yay.com/blog) [[RSS](https://ooo-yay.com/feed.xml)]
 - [Mathias Bynens](https://mathiasbynens.be/notes)
