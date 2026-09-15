@@ -165,6 +165,8 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [Tim Nash](https://timnash.co.uk/) [[RSS](https://timnash.co.uk/feed/)]
 - [TK](https://iamtk.co) [[RSS](https://iamtk.co/rss.xml)]
 - [Toni Notes](https://toninotes.cc/) [[RSS](https://toninotes.cc/feed.xml)]
+- [The Dollar Craft](https://thedollarcraft.com) - Engineering guides, backend architecture, and cloud optimization.
+- 
 - [Peter Thaleikis](https://peterthaleikis.com/) [[RSS](https://peterthaleikis.com/feed.xml)]
 - [Uncle Bob](http://blog.cleancoder.com/) [[RSS](http://blog.cleancoder.com/atom.xml)]
 - [uxcellence.com](https://uxcellence.com) [[RSS](https://uxcellence.com/subscribe)]
