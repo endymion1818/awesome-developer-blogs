@@ -41,6 +41,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [All In the Head - Ponderings and Code By Drew McLellan](http://allinthehead.com/) [[RSS](https://allinthehead.com/retro/rss)]
 - [All about coding - mainly about programming in Ruby](https://allaboutcoding.ghinda.com) [[RSS](https://allinthehead.com/retro/rss)]
 - [adactio.com](https://adactio.com)
+- [alekseialeinikov.com](https://www.alekseialeinikov.com/) [[RSS](https://www.alekseialeinikov.com/feed-en.xml)]
 - [alexcarpenter.me](https://alexcarpenter.me/)
 - [alexpate.uk](https://alexpate.uk/)
 - [Andreas Rein](https://andreasrein.net)
