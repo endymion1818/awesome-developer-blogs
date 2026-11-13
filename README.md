@@ -134,6 +134,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [ohhelloana.blog](https://www.ohhelloana.blog/)
 - [overreacted.io](https://overreacted.io/)
 - [Oleg Timoshin](https://timoshinoleg-eng.github.io/blog/) [[RSS](https://timoshinoleg-eng.github.io/blog/feed.xml)]
+- [pastagi.com](https://pastagi.com/) [[RSS](https://pastagi.com/rss.xml)]
 - [paulmcbride.net](https://paulmcbride.net)
 - [Paul Robert Lloyd](https://paulrobertlloyd.com/)
 - [philna.sh](https://philna.sh/)[[RSS](https://philna.sh/feed.xml)]
