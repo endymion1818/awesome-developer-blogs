@@ -172,6 +172,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [Vladimir Carrer ](http://www.vcarrer.com/) [[RSS](http://feeds.feedburner.com/CarrerBlog)]
 - [voxpelli.com](https://voxpelli.com/) [[RSS](https://voxpelli.com/english.xml)]
 - [webjigsaw.com](http://webjigsaw.com/)
+- [WayneTalk](https://waynetalk.com/) [[RSS](https://waynetalk.com/feed/)]
 - [yaabed.com](https://yaabed.com/)
 - [Yuvraj's CS Blog](http://blog.yuvv.xyz/) [RSS](https://blog.yuvv.xyz/rss.xml)
 - [Zell Liew](https://zellwk.com/blog/)
