@@ -128,6 +128,7 @@ Want a decent RSS reader? I use [NetNewsWire](https://netnewswire.com)
 - [mxb.at](https://mxb.at/) [[RSS](https://mxb.at/feed.xml)]
 - [Max Stoiber](https://mxstbr.com)[[RSS](https://mxstbr.com/rss)]
 - [The Ephemera of Nicholas Gallagher](http://nicolasgallagher.com/)
+- [Nevolin](https://nevolin.be/blog) [[RSS](https://nevolin.be/blog/rss.xml)]
 - [nicolas-hoizey.com](https://nicolas-hoizey.com/) [[RSS](https://nicolas-hoizey.com/feeds/articles.xml)]
 - [Nick Fitzgerald](http://fitzgeraldnick.com/)
 - [notlaura.com](https://notlaura.com)
